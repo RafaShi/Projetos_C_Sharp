@@ -1,0 +1,41 @@
+C:\Users\0030482411022\Downloads\Pmenu\Pmenu\bin\Debug\net8.0-windows\Pmenu.exe
+C:\Users\0030482411022\Downloads\Pmenu\Pmenu\bin\Debug\net8.0-windows\Pmenu.deps.json
+C:\Users\0030482411022\Downloads\Pmenu\Pmenu\bin\Debug\net8.0-windows\Pmenu.runtimeconfig.json
+C:\Users\0030482411022\Downloads\Pmenu\Pmenu\bin\Debug\net8.0-windows\Pmenu.dll
+C:\Users\0030482411022\Downloads\Pmenu\Pmenu\bin\Debug\net8.0-windows\Pmenu.pdb
+C:\Users\0030482411022\Downloads\Pmenu\Pmenu\obj\Debug\net8.0-windows\Pmenu.Form1.resources
+C:\Users\0030482411022\Downloads\Pmenu\Pmenu\obj\Debug\net8.0-windows\Pmenu.FrmExercicio2.resources
+C:\Users\0030482411022\Downloads\Pmenu\Pmenu\obj\Debug\net8.0-windows\Pmenu.FrmExercicio4.resources
+C:\Users\0030482411022\Downloads\Pmenu\Pmenu\obj\Debug\net8.0-windows\Pmenu.FrmExercicio5.resources
+C:\Users\0030482411022\Downloads\Pmenu\Pmenu\obj\Debug\net8.0-windows\Pmenu.csproj.GenerateResource.cache
+C:\Users\0030482411022\Downloads\Pmenu\Pmenu\obj\Debug\net8.0-windows\Pmenu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0030482411022\Downloads\Pmenu\Pmenu\obj\Debug\net8.0-windows\Pmenu.AssemblyInfoInputs.cache
+C:\Users\0030482411022\Downloads\Pmenu\Pmenu\obj\Debug\net8.0-windows\Pmenu.AssemblyInfo.cs
+C:\Users\0030482411022\Downloads\Pmenu\Pmenu\obj\Debug\net8.0-windows\Pmenu.csproj.CoreCompileInputs.cache
+C:\Users\0030482411022\Downloads\Pmenu\Pmenu\obj\Debug\net8.0-windows\Pmenu.dll
+C:\Users\0030482411022\Downloads\Pmenu\Pmenu\obj\Debug\net8.0-windows\refint\Pmenu.dll
+C:\Users\0030482411022\Downloads\Pmenu\Pmenu\obj\Debug\net8.0-windows\Pmenu.pdb
+C:\Users\0030482411022\Downloads\Pmenu\Pmenu\obj\Debug\net8.0-windows\Pmenu.genruntimeconfig.cache
+C:\Users\0030482411022\Downloads\Pmenu\Pmenu\obj\Debug\net8.0-windows\ref\Pmenu.dll
+C:\Users\0030482411022\Downloads\Pmenu\Pmenu\obj\Debug\net8.0-windows\Pmenu.FrmExercicio3_.resources
+C:\Users\Yumi\OneDrive\Área de Trabalho\Pmenu\Pmenu\obj\Debug\net8.0-windows\Pmenu.Form1.resources
+C:\Users\Yumi\OneDrive\Área de Trabalho\Pmenu\Pmenu\obj\Debug\net8.0-windows\Pmenu.FrmExercicio2.resources
+C:\Users\Yumi\OneDrive\Área de Trabalho\Pmenu\Pmenu\obj\Debug\net8.0-windows\Pmenu.FrmExercicio3_.resources
+C:\Users\Yumi\OneDrive\Área de Trabalho\Pmenu\Pmenu\obj\Debug\net8.0-windows\Pmenu.FrmExercicio4.resources
+C:\Users\Yumi\OneDrive\Área de Trabalho\Pmenu\Pmenu\obj\Debug\net8.0-windows\Pmenu.FrmExercicio5.resources
+C:\Users\Yumi\OneDrive\Área de Trabalho\Pmenu\Pmenu\obj\Debug\net8.0-windows\Pmenu.csproj.GenerateResource.cache
+C:\Users\Yumi\OneDrive\Área de Trabalho\Pmenu\Pmenu\obj\Debug\net8.0-windows\Pmenu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yumi\OneDrive\Área de Trabalho\Pmenu\Pmenu\obj\Debug\net8.0-windows\Pmenu.AssemblyInfoInputs.cache
+C:\Users\Yumi\OneDrive\Área de Trabalho\Pmenu\Pmenu\obj\Debug\net8.0-windows\Pmenu.AssemblyInfo.cs
+C:\Users\Yumi\OneDrive\Área de Trabalho\Pmenu\Pmenu\obj\Debug\net8.0-windows\Pmenu.csproj.CoreCompileInputs.cache
+C:\Users\Yumi\OneDrive\Área de Trabalho\Pmenu\Pmenu\obj\Debug\net8.0-windows\Pmenu.dll
+C:\Users\Yumi\OneDrive\Área de Trabalho\Pmenu\Pmenu\obj\Debug\net8.0-windows\refint\Pmenu.dll
+C:\Users\Yumi\OneDrive\Área de Trabalho\Pmenu\Pmenu\obj\Debug\net8.0-windows\Pmenu.pdb
+C:\Users\Yumi\OneDrive\Área de Trabalho\Pmenu\Pmenu\obj\Debug\net8.0-windows\Pmenu.sourcelink.json
+C:\Users\Yumi\OneDrive\Área de Trabalho\Pmenu\Pmenu\bin\Debug\net8.0-windows\Pmenu.exe
+C:\Users\Yumi\OneDrive\Área de Trabalho\Pmenu\Pmenu\bin\Debug\net8.0-windows\Pmenu.deps.json
+C:\Users\Yumi\OneDrive\Área de Trabalho\Pmenu\Pmenu\bin\Debug\net8.0-windows\Pmenu.runtimeconfig.json
+C:\Users\Yumi\OneDrive\Área de Trabalho\Pmenu\Pmenu\bin\Debug\net8.0-windows\Pmenu.dll
+C:\Users\Yumi\OneDrive\Área de Trabalho\Pmenu\Pmenu\bin\Debug\net8.0-windows\Pmenu.pdb
+C:\Users\Yumi\OneDrive\Área de Trabalho\Pmenu\Pmenu\obj\Debug\net8.0-windows\Pmenu.genruntimeconfig.cache
+C:\Users\Yumi\OneDrive\Área de Trabalho\Pmenu\Pmenu\obj\Debug\net8.0-windows\ref\Pmenu.dll
